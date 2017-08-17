@@ -1,4 +1,28 @@
-h1 {
-   color: white;
 
+h1
+
+   {
+   font-size: 75px;
+   color: white;
+   font-family: Courier
+   }
+ul
+  {
+   color: white;
+   font-family: Courier;
+  }
+a
+  {
+   color: white;
+   font-family: Courier;
+  }
+a:visited
+{
+ color: white;
+ font-family: Courier;
+}
+a:hover
+{
+ color: white;
+ font-family: Courier;
 }

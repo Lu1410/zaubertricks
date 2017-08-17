@@ -31,5 +31,14 @@ body {
   font-family: Courier;
   font-size: 20px;
 
+}
 
+.magic img{
+  width: 400px;
+  height: 300px;
+
+}
+
+#demo a {
+  color: blue;
 }
